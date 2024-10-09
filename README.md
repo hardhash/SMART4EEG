@@ -7,7 +7,7 @@ Hardware/Software:
 
 Environment preparation:
 
-Running:  `pip install -r requirements.txt` to install the tools of this project.
+Running:  `pip install -r requirements.txt` to install the tools of this project. CUDA and CUDNN need to be installed before.
 
 Data Preparation：
 1. Data avaiable: https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/data

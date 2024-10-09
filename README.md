@@ -5,6 +5,14 @@ Hardware/Software:
 1. System：Windows/Linux
 2. GPU：Nvidia RTX3090-24Gb * 1
 
+Environment preparation:
+
+Running:  
+
+`pip install -r requirements.txt`
+
+to install the tools of this project.
+
 Data Preparation：
 1. Data avaiable: https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/data
 2. Create a validation_stpectrograms and train_stpec_for_maper folder, and then create a code/model1 folder to store all code files

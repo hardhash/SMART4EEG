@@ -1,11 +1,12 @@
 # SMART4EEG
 A time-frequency weighted model to classify EEG patterns
 
-![image](https://github.com/hardhash/SMART4EEG/blob/master/Fig/Fig.png)
-
 Hardware/Software:
+
 1. System：Windows/Linux
 2. GPU：Nvidia RTX3090-24Gb * 1
+3. Anaconda jupyter notebook
+
 
 Environment preparation:
 

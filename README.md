@@ -1,7 +1,7 @@
 # SMART4EEG
 A time-frequency weighted model to classify EEG patterns
 
-![image](./Fig/Fig.png)
+![image](https://github.com/hardhash/SMART4EEG/blob/master/Fig/Fig.png)
 
 Hardware/Software:
 1. System：Windows/Linux

@@ -23,8 +23,10 @@ Training：
 6. Running M3_2.ipynb. It may take approximately 5 hours/Nvidia3090*1 and generates several **_v2.pt files.
 
 Infering:
+
 Running infer.ipynb
 
 Notes:
+
 ·All paths are written in the code Config class, and the Config parameters can be modified according to the actual data storage and weight file storage paths. The code training environment is selected as Windows, and if training in a Linux environment, attention should be paid to the path "/" "\" symbol switching
 ·Please reserve sufficient hard drive capacity in advance for data and intermediate data storage. Suggested capacity: not less than 200Gb.
